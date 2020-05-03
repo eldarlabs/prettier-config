@@ -4,7 +4,6 @@
   "description": "My personal Prettier config",
   "main": "index.json",
   "repository": "git@github.com:eldarlabs/prettier-config.git",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "Eldar Labs",
   "license": "MIT"
 }

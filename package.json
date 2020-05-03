@@ -3,7 +3,17 @@
   "version": "1.0.0",
   "description": "My personal Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:eldarlabs/prettier-config.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eldarlabs/prettier-config.git"
+  },
   "author": "Eldar Labs",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eldarlabs/prettier-config/issues"
+  },
+  "homepage": "https://github.com/eldarlabs/prettier-config#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
